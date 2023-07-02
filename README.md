@@ -33,7 +33,7 @@ A one-stop solution to help you ace your exam.
 
 <hr>
 
-## Note
+##  👉 Note:
 
 The project is a Prototype. So, while accessing the netlify website, only some demo stuff will work.
 ```
