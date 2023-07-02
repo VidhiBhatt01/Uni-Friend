@@ -50,11 +50,11 @@ $ python3 -m venv test
 ### --> Activate it
 Mac / Linux:
 ```console
-. venv/bin/activate
+. test/bin/activate
 ```
 Windows:
 ```console
-venv\Scripts\activate
+test\Scripts\activate
 ```
 
 ### --> Install PyTorch and dependencies
