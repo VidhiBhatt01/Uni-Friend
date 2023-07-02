@@ -43,4 +43,9 @@ eg2: Explore -> CSE AI ML -> Sem5 -> Study Material -> Web Application Developme
 
 To try and setup the chatbot, refer to [Installation.md](https://github.com/VidhiBhatt01/Uni-Friend/blob/main/INSTALLATION.md)
 
+<br>
+<p align="center">
+ © 2023 | ALL RIGHTS RESERVED
+</p>
+
 
